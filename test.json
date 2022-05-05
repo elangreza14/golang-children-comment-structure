@@ -1,0 +1,55 @@
+[
+   {
+     "content": "Budi",
+     "id": 3,
+     "parent_id": 0,
+     "total_children": 1,
+     "children": [
+       {
+         "content": "Gargda",
+         "id": 7,
+         "parent_id": 3,
+         "total_children": 0,
+         "children": null
+       }
+     ]
+   },
+   {
+     "content": "Andi",
+     "id": 1,
+     "parent_id": 0,
+     "total_children": 1,
+     "children": [
+       {
+         "content": "Candra",
+         "id": 2,
+         "parent_id": 1,
+         "total_children": 2,
+         "children": [
+           {
+             "content": "Ega",
+             "id": 5,
+             "parent_id": 2,
+             "total_children": 1,
+             "children": [
+               {
+                 "content": "Fall",
+                 "id": 6,
+                 "parent_id": 5,
+                 "total_children": 0,
+                 "children": null
+               }
+             ]
+           },
+           {
+             "content": "Dedi",
+             "id": 4,
+             "parent_id": 2,
+             "total_children": 0,
+             "children": null
+           }
+         ]
+       }
+     ]
+   }
+ ]
